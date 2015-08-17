@@ -1,0 +1,9 @@
+CAN4VSCP - USB
+==============
+
+2015-05-08 AKHE - Fixed lengths on tracks and added CAP on VUSB.
+2015-05-08 AKHE - Added J5 pin power connector.
+2011-12-20 AKHE - Added termination resistor. Leave unpopulated.
+2011-11-10 AKHE - GND Switch fixed. GND is at 6,7,8
+2011-11-10 AKHE - CANH should be on pin 4 of RJ-45
+2011-11-10 AKHE - Rev B
