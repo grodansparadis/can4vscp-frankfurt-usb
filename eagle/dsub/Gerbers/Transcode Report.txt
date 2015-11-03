@@ -1,0 +1,116 @@
+
+
+   ---- Transcoding 'C:\Users\grodansparadis\development\can4vscp_frankfurt_usb\eagle\dsub\Gerbers\pactec_version_rev_C.milling' ----   Mon Nov 02 14:24:04 2015
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\grodansparadis\development\can4vscp_frankfurt_usb\eagle\dsub\Gerbers\pactec_version_rev_C.plc' ----   Mon Nov 02 14:24:04 2015
+
+D10   --> D103
+D11   --> D104
+D12   --> D105
+D13   --> D106
+D14   --> D107
+D15   --> D108
+D16   --> D109
+D17   --> D110
+D18   --> D111
+D19   --> D112
+D20   --> D113
+D21   --> D114
+D22   --> D115
+D23   --> D116
+D24   --> D117
+D25   --> D118
+D26   --> D119
+D27   --> D120
+D28   --> D121
+D29   --> D122
+D30   --> D123
+D31   --> D124
+D32   --> D125
+D100  --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\grodansparadis\development\can4vscp_frankfurt_usb\eagle\dsub\Gerbers\pactec_version_rev_C.pls' ----   Mon Nov 02 14:24:04 2015
+
+D10   --> D127
+D11   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\grodansparadis\development\can4vscp_frankfurt_usb\eagle\dsub\Gerbers\pactec_version_rev_C.pmc' ----   Mon Nov 02 14:24:04 2015
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+D17   --> D136
+D18   --> D137
+D19   --> D138
+D20   --> D139
+D21   --> D140
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\grodansparadis\development\can4vscp_frankfurt_usb\eagle\dsub\Gerbers\pactec_version_rev_C.pms' ----   Mon Nov 02 14:24:04 2015
+
+D10   --> D141
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\grodansparadis\development\can4vscp_frankfurt_usb\eagle\dsub\Gerbers\pactec_version_rev_C.sol' ----   Mon Nov 02 14:24:04 2015
+
+D13   --> D142
+D14   --> D143
+D15   --> D144
+D16   --> D145
+D17   --> D146
+D18   --> D147
+D19   --> D148
+D20   --> D149
+D21   --> D150
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\grodansparadis\development\can4vscp_frankfurt_usb\eagle\dsub\Gerbers\pactec_version_rev_C.stc' ----   Mon Nov 02 14:24:04 2015
+
+D10   --> D151
+D11   --> D152
+D12   --> D153
+D13   --> D154
+D14   --> D155
+D15   --> D156
+D16   --> D157
+D17   --> D158
+D18   --> D159
+D19   --> D160
+D20   --> D161
+D21   --> D162
+D22   --> D163
+D23   --> D164
+D24   --> D165
+D25   --> D166
+D26   --> D167
+D27   --> D168
+D28   --> D169
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\grodansparadis\development\can4vscp_frankfurt_usb\eagle\dsub\Gerbers\pactec_version_rev_C.sts' ----   Mon Nov 02 14:24:04 2015
+
+D10   --> D170
+D11   --> D171
+D12   --> D172
+D13   --> D173
+D14   --> D174
+D15   --> D175
+D16   --> D176
+D17   --> D177
+-----------------------------------------------------------------

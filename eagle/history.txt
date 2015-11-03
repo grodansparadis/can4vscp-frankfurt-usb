@@ -1,6 +1,7 @@
 CAN4VSCP - USB
 ==============
 
+2015-11-01 AKHE - Changed processor to PIC18F26J50. 3.3V design.
 2015-05-08 AKHE - Fixed lengths on tracks and added CAP on VUSB.
 2015-05-08 AKHE - Added J5 pin power connector.
 2011-12-20 AKHE - Added termination resistor. Leave unpopulated.
