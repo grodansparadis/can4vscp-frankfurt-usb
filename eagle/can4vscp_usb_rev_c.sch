@@ -7960,7 +7960,7 @@ package type SP</description>
 <part name="GND16" library="SUPPLY1" deviceset="GND" device=""/>
 <part name="C4" library="rcl" deviceset="C-EU" device="C0805" value="15pF"/>
 <part name="C6" library="rcl" deviceset="C-EU" device="C0805" value="15pF"/>
-<part name="IC1" library="microchip-pic18fxx5x" deviceset="PIC18*2550" device="-I/SO" technology="LF" value="PIC18LF26J50-I/SO"/>
+<part name="IC1" library="microchip-pic18fxx5x" deviceset="PIC18*2550" device="-I/SO" technology="LF" value="PIC18LF25K50-I/SO"/>
 <part name="P+2" library="SUPPLY1" deviceset="VCC" device="" value="VDD"/>
 <part name="GND17" library="SUPPLY1" deviceset="GND" device=""/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R0805" value="10K"/>

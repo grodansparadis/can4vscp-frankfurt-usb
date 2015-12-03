@@ -4950,7 +4950,7 @@ Covered vias can be set in Masks (Limit).
 <element name="C6" library="rcl" package="C0805" value="15pF" x="41.8686" y="2.5753" smashed="yes" rot="R180">
 <attribute name="NAME" x="39.6813" y="1.9986" size="0.6096" layer="25" rot="R90"/>
 </element>
-<element name="IC1" library="microchip-pic18fxx5x" package="SO-28W" value="PIC18LF26J50-I/SO" x="32.4356" y="31.1742" smashed="yes" rot="R90">
+<element name="IC1" library="microchip-pic18fxx5x" package="SO-28W" value="PIC18LF25K50-I/SO" x="32.4356" y="31.1742" smashed="yes" rot="R90">
 <attribute name="NAME" x="34.5171" y="22.6916" size="0.6096" layer="25" ratio="10" rot="R180"/>
 </element>
 <element name="R1" library="rcl" package="R0805" value="10K" x="42.6694" y="29.7398" smashed="yes">
