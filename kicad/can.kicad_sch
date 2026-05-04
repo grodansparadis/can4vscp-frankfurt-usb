@@ -3773,7 +3773,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3050E.pdf"
 			(at 148.59 342.24 0)
 			(hide yes)
 			(show_name no)

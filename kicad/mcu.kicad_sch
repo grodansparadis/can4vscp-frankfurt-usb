@@ -1304,6 +1304,181 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Switch:SW_Omron_B3FS"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 1.27 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "SW_Omron_B3FS"
+				(at 0 -1.524 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Omron B3FS 6x6mm single pole normally-open tactile switch"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SW*Omron*B3FS*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_Omron_B3FS_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+3.3V"
 			(power global)
 			(pin_numbers
@@ -2745,16 +2920,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 128.27) (xy 111.76 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c3de1fb-868b-4708-bd12-02601f3b5063")
-	)
-	(wire
-		(pts
 			(xy 151.13 104.14) (xy 151.13 109.22)
 		)
 		(stroke
@@ -2802,16 +2967,6 @@
 			(type default)
 		)
 		(uuid "10f73776-ad5f-421d-8795-03dbc3909c20")
-	)
-	(wire
-		(pts
-			(xy 96.52 130.81) (xy 102.87 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1188c17f-366d-4454-97b5-06271b9085ce")
 	)
 	(wire
 		(pts
@@ -3012,16 +3167,6 @@
 			(type default)
 		)
 		(uuid "55f7bb36-5e9f-4ba1-b949-75dc757755f0")
-	)
-	(wire
-		(pts
-			(xy 102.87 130.81) (xy 102.87 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56564390-3519-4c42-a7cc-d10ac9cd33a2")
 	)
 	(wire
 		(pts
@@ -3265,6 +3410,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 128.27) (xy 93.98 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5d1c7ce-e47b-431f-b978-a772d1eabfae")
+	)
+	(wire
+		(pts
 			(xy 209.55 81.28) (xy 236.22 81.28)
 		)
 		(stroke
@@ -3292,6 +3447,16 @@
 			(type default)
 		)
 		(uuid "b186c220-9d8c-4646-8127-5f6af74182f9")
+	)
+	(wire
+		(pts
+			(xy 96.52 128.27) (xy 93.98 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5c1c139-570e-43da-b20c-cc47c6c7e4e1")
 	)
 	(wire
 		(pts
@@ -3485,6 +3650,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 128.27) (xy 111.76 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc2338d4-a8d5-4a78-9fed-93d1f8201c2f")
+	)
+	(wire
+		(pts
 			(xy 243.84 78.74) (xy 243.84 83.82)
 		)
 		(stroke
@@ -3554,7 +3729,7 @@
 		(uuid "d8a7b958-b620-4250-ae9a-dcc8306dbf74")
 	)
 	(label "NRST"
-		(at 104.14 128.27 0)
+		(at 105.41 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4366,6 +4541,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Omron_B3FS")
+		(at 101.6 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4b983240-7470-4f28-9756-7a4f4a16df26")
+		(property "Reference" "SW4"
+			(at 101.6 121.2045 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Control 1"
+			(at 101.6 123.6288 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP"
+			(at 101.6 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
+			(at 101.6 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Omron B3FS 6x6mm single pole normally-open tactile switch"
+			(at 101.6 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7a1e50c9-21dd-401e-9708-33ceeb2d48ad")
+		)
+		(pin "1"
+			(uuid "eeb558fd-e6e4-4d56-8fcf-f7f09323d8ea")
+		)
+		(instances
+			(project "vscp-din-stm32h552-can-z102"
+				(path "/a1545928-1195-40b9-b3c4-78f837012afb/a2c85583-6e76-4726-8b5c-5d610fd6c58c"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 151.13 113.03 0)
 		(unit 1)
@@ -4441,84 +4696,6 @@
 			(project "vscp-din-stm32h552-can-z102"
 				(path "/a1545928-1195-40b9-b3c4-78f837012afb/a2c85583-6e76-4726-8b5c-5d610fd6c58c"
 					(reference "C12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 102.87 142.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5c67e419-c21e-4681-9c63-64b3295273ea")
-		(property "Reference" "#PWR01"
-			(at 102.87 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 102.87 146.3731 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 102.87 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "58b3e865-d59f-4606-8db8-e45b501350fb")
-		)
-		(instances
-			(project "vscp-din-stm32h552-can-z102"
-				(path "/a1545928-1195-40b9-b3c4-78f837012afb/a2c85583-6e76-4726-8b5c-5d610fd6c58c"
-					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -4759,6 +4936,84 @@
 			(project "vscp-din-stm32h552-can-z102"
 				(path "/a1545928-1195-40b9-b3c4-78f837012afb/a2c85583-6e76-4726-8b5c-5d610fd6c58c"
 					(reference "#PWR0131")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 93.98 142.24 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7187a44f-106c-415e-8a84-5c839ba64675")
+		(property "Reference" "#PWR035"
+			(at 93.98 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 93.98 146.3731 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 93.98 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bc29c81b-5858-4ad9-993b-eb6fa73896f8")
+		)
+		(instances
+			(project "vscp-din-stm32h552-can-z102"
+				(path "/a1545928-1195-40b9-b3c4-78f837012afb/a2c85583-6e76-4726-8b5c-5d610fd6c58c"
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -5077,86 +5332,6 @@
 			(project "vscp-din-stm32h552-can-z102"
 				(path "/a1545928-1195-40b9-b3c4-78f837012afb/a2c85583-6e76-4726-8b5c-5d610fd6c58c"
 					(reference "R17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 91.44 130.81 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8bab267a-320e-4817-964f-d94c0d824bc0")
-		(property "Reference" "J11"
-			(at 91.44 123.9901 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 91.44 125.9111 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 91.44 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 91.44 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 91.44 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a04f54a0-5b31-4061-9437-9618c7ead401")
-		)
-		(pin "2"
-			(uuid "5e52c291-7b50-4c44-9052-1c5acc3db7b9")
-		)
-		(instances
-			(project "vscp-din-stm32h552-can-z102"
-				(path "/a1545928-1195-40b9-b3c4-78f837012afb/a2c85583-6e76-4726-8b5c-5d610fd6c58c"
-					(reference "J11")
 					(unit 1)
 				)
 			)

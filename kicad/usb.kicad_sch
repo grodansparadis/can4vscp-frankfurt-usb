@@ -3235,7 +3235,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "USB4145-03-0230-C"
+		(property "Datasheet" "https://gct.co/files/specs/usb4145-spec.pdf"
 			(at 162.56 67.31 0)
 			(hide yes)
 			(show_name no)
