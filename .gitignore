@@ -46,3 +46,7 @@
 /eagle/*.s#2
 /eagle/*.pro
 /eagle/*.s#7
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
