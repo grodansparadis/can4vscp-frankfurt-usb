@@ -2383,6 +2383,38 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "https://www.vscp.org"
+		(exclude_from_sim no)
+		(at 189.738 176.022 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8036d910-1fc1-4001-bbb2-1f51a6db19de")
+	)
+	(text "Grodans Paradis AB"
+		(exclude_from_sim no)
+		(at 188.976 173.228 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a3b92243-2634-474a-abd4-fc8e91c407da")
+	)
+	(text "can4vscp-frankfurt-usb"
+		(exclude_from_sim no)
+		(at 207.01 169.418 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "b943604e-c8f7-47f5-8959-3160f5cd4290")
+	)
 	(junction
 		(at 133.35 77.47)
 		(diameter 0)

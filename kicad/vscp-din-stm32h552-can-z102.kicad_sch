@@ -5,21 +5,44 @@
 	(uuid "a1545928-1195-40b9-b3c4-78f837012afb")
 	(paper "A4")
 	(title_block
-		(title "vscp-din-esp32-can-z102")
-		(rev "C")
+		(title "can4vscp-frankfurt-usb")
+		(date "2020-06-04")
+		(rev "A")
 		(company "Grodans Paradis AB")
+		(comment 1 "https://www.vscp.org")
 	)
 	(lib_symbols)
-	(text "VSCP Wireless CAN4VSCP interface"
+	(text "https://www.vscp.org"
 		(exclude_from_sim no)
-		(at 179.07 170.18 0)
+		(at 189.484 175.768 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
 		)
-		(uuid "17d8df89-c44c-4058-982e-906fe5c24c4f")
+		(uuid "1797b830-c24c-42f2-b6f0-8d2be2e75309")
+	)
+	(text "can4vscp-frankfurt-usb"
+		(exclude_from_sim no)
+		(at 206.756 169.164 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "453ef8b3-cafc-403a-a96c-4d68fdc35b72")
+	)
+	(text "Grodans Paradis AB"
+		(exclude_from_sim no)
+		(at 188.722 172.974 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "eca27ccd-0fa9-4366-be74-17c09063e82c")
 	)
 	(sheet
 		(at 81.28 73.66)

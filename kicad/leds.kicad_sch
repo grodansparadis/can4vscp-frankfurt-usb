@@ -804,6 +804,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "can4vscp-frankfurt-usb"
+		(exclude_from_sim no)
+		(at 208.788 170.942 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "20b17403-d4e0-4d9c-b30a-a57ae74a71b6")
+	)
+	(text "https://www.vscp.org"
+		(exclude_from_sim no)
+		(at 191.516 177.546 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "699a3e8a-5cc7-463e-90fb-0f5db95bf9c5")
+	)
 	(text "led A == wifi (green)\nled B == status (blue)"
 		(exclude_from_sim no)
 		(at 130.81 61.976 0)
@@ -825,6 +847,16 @@
 			(justify left bottom)
 		)
 		(uuid "a3ed62d7-7150-4737-8bf0-5ce18d3b5368")
+	)
+	(text "Grodans Paradis AB"
+		(exclude_from_sim no)
+		(at 190.754 174.752 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a6ce010f-d3c2-4a27-9fcf-1cab8d8f1b00")
 	)
 	(wire
 		(pts

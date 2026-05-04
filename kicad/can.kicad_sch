@@ -2673,6 +2673,16 @@
 		)
 		(uuid "2da5e8a5-04ba-4d18-821a-8d375f03e4d5")
 	)
+	(text "https://www.vscp.org"
+		(exclude_from_sim no)
+		(at 189.992 176.784 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "361a4ff4-44b4-4956-82b0-8c52aa38586e")
+	)
 	(text "Delayed Power supply"
 		(exclude_from_sim no)
 		(at 52.324 134.874 0)
@@ -2702,6 +2712,28 @@
 			)
 		)
 		(uuid "872e72ef-2fda-4082-8530-7647f112cc39")
+	)
+	(text "can4vscp-frankfurt-usb"
+		(exclude_from_sim no)
+		(at 207.264 170.18 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "889db6e6-b015-4a81-b6d3-78830cfe67c1")
+	)
+	(text "Grodans Paradis AB"
+		(exclude_from_sim no)
+		(at 189.23 173.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9682aef9-08e7-4a27-adf1-c8f287d5b54f")
 	)
 	(text "Mount if non isolated"
 		(exclude_from_sim no)
