@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 830069528
+D WE-XTAL Quartz Crystal IQXC-26; 1.6 x 1.2mm; 48.0 MHz; Tol = +/-15 ppm; Stab = +/-15 ppm Temp Range: -20 to 70 C; Load Cap = 8 pF;
+K
+F https://www.we-online.com/catalog/datasheet/830069528.pdf
+$ENDCMP
+#
+#End Doc Library

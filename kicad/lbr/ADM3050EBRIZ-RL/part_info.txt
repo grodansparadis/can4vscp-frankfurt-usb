@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADM3050EBRIZ-RL
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2020-11-22 08:26:34
+Downloaded=2026-05-04 13:22:23
+3D=Y

@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "CONN_8p94X3p16X6p50_16L_GCT") (type "KiCad") (uri "${KIPRJMOD}/lbr/footprints.pretty") (options "") (descr ""))
+)

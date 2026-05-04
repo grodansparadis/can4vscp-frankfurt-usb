@@ -1,0 +1,7 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "stm32h552") (type "KiCad") (uri "${KIPRJMOD}/lbr") (options "") (descr ""))
+	(lib (name "TCAN3404") (type "KiCad") (uri "${KIPRJMOD}/lbr") (options "") (descr "CAN interface"))
+	(lib (name "USB4235-03-C") (type "KiCad") (uri "${KIPRJMOD}/lbr/ul_USB4145-03-0230-C/KiCADv6/2026-05-03_20-39-48.kicad_sym") (options "") (descr "Vertical USB femail"))
+	(lib (name "ADM3050") (type "KiCad") (uri "${KIPRJMOD}/lbr/ADM3050EBRIZ-RL/KiCad") (options "") (descr ""))
+)

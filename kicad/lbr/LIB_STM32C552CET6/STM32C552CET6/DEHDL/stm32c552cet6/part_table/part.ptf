@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32C552CET6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32C552CET6" (!) = "", "QFP50P900X900X160-48N", "Quad Flat Packages", "", "", "", "", "Arm? Cortex?-M33 32-bit MCU with FPU, 144 MHz, 593 CoreMark?, up to 512Kbyte dualbank flash memory, 128-Kbyte RAM", "https://www.st.com/resource/en/datasheet/stm32c551cc.pdf", "1.6 mm"
+END_PART
+
+END.

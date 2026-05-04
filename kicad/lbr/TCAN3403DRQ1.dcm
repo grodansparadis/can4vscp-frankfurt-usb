@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCAN3403DRQ1
+D CAN Interface IC Automotive 3.3V CAN flexible-data-rate (FD) transceiver with flexible I/O and standby mode 8-SOIC -40 to 150
+K
+F https://www.ti.com/lit/ds/symlink/tcan3403-q1.pdf?ts=1732780388772&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTCAN3403-Q1%252Fpart-details%252FTCAN3403DRQ1
+$ENDCMP
+#
+#End Doc Library

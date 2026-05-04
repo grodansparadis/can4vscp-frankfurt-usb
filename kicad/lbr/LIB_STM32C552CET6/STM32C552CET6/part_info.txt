@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32C552CET6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=2.1
+Released=2026-03-16 04:16:35
+Downloaded=2026-04-28 11:41:58
+3D=Y

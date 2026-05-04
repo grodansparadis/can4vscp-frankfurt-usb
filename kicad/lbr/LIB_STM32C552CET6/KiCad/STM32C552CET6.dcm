@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32C552CET6
+D Arm? Cortex?-M33 32-bit MCU with FPU, 144 MHz, 593 CoreMark?, up to 512Kbyte dualbank flash memory, 128-Kbyte RAM
+K
+F https://www.st.com/resource/en/datasheet/stm32c551cc.pdf
+$ENDCMP
+#
+#End Doc Library
