@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TCAN3403DDFRQ1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-06-05-08:40:08)
+    (mountForm default
+        (footprintRef "SOT65P280X110-8N")
+        (spec "System")
+    )
+)

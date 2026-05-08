@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TCAN3403DDFRQ1
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (8-Pin)
+PinCount=8
+Version=1.1
+Released=2024-09-23 09:09:03
+Downloaded=2026-05-08 12:34:51
+3D=Y

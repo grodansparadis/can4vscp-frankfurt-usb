@@ -3059,6 +3059,16 @@
 	)
 	(wire
 		(pts
+			(xy 97.79 160.02) (xy 97.79 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58d2eb99-2122-438c-8a2f-eebbeecec27d")
+	)
+	(wire
+		(pts
 			(xy 114.3 105.41) (xy 121.92 105.41)
 		)
 		(stroke
@@ -3761,7 +3771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCAN3403DRQ1:SOIC127P600X175-8N"
+		(property "Footprint" "ADM3050EBRIZ:SOIC127P1031X265-8N"
 			(at 148.59 242.24 0)
 			(hide yes)
 			(show_name no)
@@ -5581,7 +5591,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 97.79 158.75 0)
+		(at 97.79 160.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5591,7 +5601,7 @@
 		(dnp no)
 		(uuid "b692e8d4-5908-48bf-8f3f-a158e12f0dd1")
 		(property "Reference" "#PWR0147"
-			(at 97.79 165.1 0)
+			(at 97.79 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5602,7 +5612,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.917 163.1442 0)
+			(at 97.917 164.4142 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5612,7 +5622,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 158.75 0)
+			(at 97.79 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5623,7 +5633,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 158.75 0)
+			(at 97.79 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5634,7 +5644,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 158.75 0)
+			(at 97.79 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

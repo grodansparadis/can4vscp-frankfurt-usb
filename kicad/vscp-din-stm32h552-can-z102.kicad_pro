@@ -591,7 +591,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "/home/akhe/Downloads/",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -772,7 +772,7 @@
         "uuid": "a1545928-1195-40b9-b3c4-78f837012afb"
       }
     ],
-    "used_designators": "#PWR29,J1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
