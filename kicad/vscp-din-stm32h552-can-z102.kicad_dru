@@ -1,0 +1,6 @@
+(version 1)
+
+(rule "THT to SMD clearance"
+    (condition "A.Type == 'Through Hole' && B.Type == 'SMD'")
+    (constraint clearance (min 0.1mm))
+)

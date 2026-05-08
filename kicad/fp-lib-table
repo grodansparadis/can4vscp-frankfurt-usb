@@ -1,4 +1,8 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "CONN_8p94X3p16X6p50_16L_GCT") (type "KiCad") (uri "${KIPRJMOD}/lbr/footprints.pretty") (options "") (descr ""))
+	(lib (name "STM32C552CET6") (type "KiCad") (uri "${KIPRJMOD}/lbr/LIB_STM32C552CET6/KiCad") (options "") (descr ""))
+	(lib (name "TCAN3403DRQ1") (type "KiCad") (uri "${KIPRJMOD}/lbr") (options "") (descr ""))
+	(lib (name "USB4145-03-0230-C") (type "KiCad") (uri "${KIPRJMOD}/lbr/ul_USB4145-03-0230-C/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "USB2047110001") (type "KiCad") (uri "${KIPRJMOD}/lbr/2047110001/KiCADv6/footprints.pretty") (options "") (descr ""))
 )

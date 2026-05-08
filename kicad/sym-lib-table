@@ -4,4 +4,5 @@
 	(lib (name "TCAN3404") (type "KiCad") (uri "${KIPRJMOD}/lbr") (options "") (descr "CAN interface"))
 	(lib (name "USB4235-03-C") (type "KiCad") (uri "${KIPRJMOD}/lbr/ul_USB4145-03-0230-C/KiCADv6/2026-05-03_20-39-48.kicad_sym") (options "") (descr "Vertical USB femail"))
 	(lib (name "ADM3050") (type "KiCad") (uri "${KIPRJMOD}/lbr/ADM3050EBRIZ-RL/KiCad") (options "") (descr ""))
+	(lib (name "USB2047110001") (type "KiCad") (uri "${KIPRJMOD}/lbr/2047110001/KiCADv6/2026-05-08_07-19-06.kicad_sym") (options "") (descr ""))
 )
